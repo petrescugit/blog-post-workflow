@@ -900,12 +900,10 @@ json-stringify-safe@^5.0.1:
   resolved "https://registry.yarnpkg.com/json-stringify-safe/-/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
   integrity sha1-Epai1Y/UXxmg9s4B1lcB4sc1tus=
 
-keepalive-workflow@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/keepalive-workflow/-/keepalive-workflow-1.1.0.tgz#c8db03ebbf61dee53c74c61b4514e3ebf4d861af"
-  integrity sha512-agALOkw3wdy7hkKTbOnKp0chTHBpPYa7ZtQqf+hZAeuqxkT69T4oOvshwzkyA+zU4d+sAFpHtEFM4ZeFiwpb1w==
-  dependencies:
-    process latest
+keepalive-workflow@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/keepalive-workflow/-/keepalive-workflow-1.2.1.tgz#08874d8be0a3c3a48f5ccdb6217fd01d3118c20a"
+  integrity sha512-+KnBGaAKkF8VE0eTTle3PUvOWasJEmAqr0pDl1pYU6jdhn3thO7TQV2Y6fJmMeXvjhmrQ/MFRu1GR32cWmuosg==
 
 lazy-ass@1.6.0:
   version "1.6.0"
